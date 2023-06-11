@@ -1,0 +1,49 @@
+
+body{
+background-color:whitesmoke;
+background-size: 100%;
+background-image: url(/home/pius/FinalProject/12125.jpg);
+ }
+ 
+ 
+h1   {
+
+text-align:center;
+text-shadow: 10px 10px 10px black;
+color:darkblue;
+
+}
+
+h2{
+
+text-align:center;
+
+}
+h3,h4,h2 {
+
+text-align:center;
+text-shadow: 10px 10px 10px black;
+color:darkblue;
+
+
+
+
+
+}
+.btn{
+ transition: transform 0.3s ease;
+color:black;
+
+}
+.btn:hover  {
+color:purple;
+transform:translateY(-10px);
+}
+
+h4{
+text-align:center;
+color:violet;
+}
+
+
+

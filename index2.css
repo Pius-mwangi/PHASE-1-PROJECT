@@ -1,0 +1,26 @@
+p
+{
+
+text-shadow: 10px 10px 10px #000;
+transition:transform ease,0.3s,0s;
+font-size:30px;
+}
+p.hover:{
+transform:translateY(-10px);
+}
+#links  {
+text-align:center;
+
+}
+body{
+
+background-color:whitesmoke;
+background-image: url(/home/pius/FinalProject/Pasted.jpg);
+background-size:100%;
+
+}
+h4{
+text-align:center;
+font-size:19px;
+
+}
